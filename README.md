@@ -1,4 +1,5 @@
 # CreditCardValidatorWebServices_SpringBoot-Junit-Mockito
+Credit Card Validator
 Credit card validator REST API build in spring boot with Test Cases (JUnit + Mockito)
 
 mvn clean
@@ -12,7 +13,6 @@ Go to the target folder
 java -jar CreditCardValidator-0.0.1-SNAPSHOT.jar
 
 Verify your RESTful call.
-
 URL : localhost:8080/CreditCardValidatorApp/creditCard/
 
 I have already deployed this app on cloud so you can directly check below public URL :
